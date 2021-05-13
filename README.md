@@ -1,5 +1,5 @@
-# Diana-A-Dekstop-Voice-Assistant-
-This is a dekstop voice assistant developed in python with simple coding skills with the help of different python modules and libraries.
+# Diana-A-Desktop-Voice-Assistant-
+This is a desktop voice assistant developed in python with simple coding skills with the help of different python modules and libraries.
 
 Diana can perform following tasks :-
  	Open and close notepad , wordpad , command prompt 
