@@ -15,4 +15,7 @@ Diana can perform following tasks :-
  	Take screenshots
  	Read PDF books 
   Click pictures with default camera
+  
+  
+  **Note : -  All modules and libraries should be installed first to run this software
 
