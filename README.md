@@ -17,5 +17,5 @@ Diana can perform following tasks :-
   Click pictures with default camera
   
   
-  **Note : -  All modules and libraries should be installed first to run this software
+  **Note : -  All modules and libraries should be installed first to run this software**
 
