@@ -4,7 +4,7 @@
 
 ### Voice Assistant / Virtual Assistant / Digital Assistant
 
-A Voice Assistant is a software-based program or application that uses natural language processing and speech recognition technology to interact with users through spoken language. These assistants are designed to understand and respond to voice commands and questions, providing information, performing tasks, and controlling various functions on a device or within a software ecosystem. Voice assistants are typically found on smartphones, smart speakers, and other devices.
+A Voice Assistant is a software-based program or application that uses natural language processing and speech recognition technology to interact with users through spoken language. These assistants are designed to understand and respond to voice commands and questions, providing information, performing tasks, and controlling various functions on a device or within a software ecosystem. Voice assistants are typically found on Desktops, smartphones, smart speakers, and other devices.
 
 ## Features
 
@@ -26,11 +26,10 @@ A Voice Assistant is a software-based program or application that uses natural l
 
 ## Screenshots
 
-![GUI Interface](path/to/gui-screenshot.png)
-*The GUI Interface of our Voice Assistant can open Notepad.*
+![GUI Interface](https://github.com/shivamjha2705/Bit_project/assets/69563640/126111cc-c5c3-47cf-ac3e-ee261912e3bd)
 
-![Command Prompt](path/to/command-prompt-screenshot.png)
-*The Voice Assistant can open Command Prompt.*
+![opened notepad GUI](https://github.com/shivamjha2705/Bit_project/assets/69563640/9fce089a-4fa4-4977-a622-3e939346a81a)
+*The GUI Interface of our Voice Assistant can open Notepad.*
 
 ## Some Commands Our Voice Assistant Understands
 
@@ -45,7 +44,6 @@ A Voice Assistant is a software-based program or application that uses natural l
 ## Limitations of Our Project
 
 - Limited Speech Recognition Accuracy
-- Limited Natural Language Understanding
 - Limited Error Handling
 - Dependency on External Services
 - Lack of Robustness
@@ -62,9 +60,4 @@ A Voice Assistant is a software-based program or application that uses natural l
 ## Conclusion
 
 Our project demonstrates the creation of a voice-activated assistant with diverse functionalities, such as opening applications, fetching news, and more. There are areas for improvement and expansion to enhance the capabilities, user experience, and security. Key future scopes include improving natural language processing, personalization, IoT integration, emotional intelligence, and security measures. Enhancements can lead to a more sophisticated and versatile voice assistant suitable for personal, commercial, and industry-specific applications. The voice-activated assistant remains a dynamic field, offering opportunities to streamline tasks and provide valuable support with ongoing innovation.
-
-## Links
-
-- [Project Repository](https://github.com/your-repo)
-- [Documentation](https://your-docs-link)
 
